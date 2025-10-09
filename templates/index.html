@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Cloud File List</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+    }
+    h1 {
+      color: #333;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      padding: 8px;
+      border-bottom: 1px solid #ddd;
+      cursor: pointer;
+    }
+    li:hover {
+      background-color: #f0f0f0;
+    }
+    #file-content {
+      margin-top: 2rem;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      white-space: pre-wrap; /* keep line breaks */
+    }
+  </style>
+</head>
+<body>
+  <h1>Files in Google Cloud Storage</h1>
+  <ul id="file-list"></ul>
+
+  <div id="file-content">
+    <em>Select a file to view its contents</em>
+  </div>
+
+  <script>
+    const fileList = document.getElementById("file-list");
+    const fileContent = document.getElementById("file-content");
+
+    // Load file list
+    fetch("http://127.0.0.1:5000/")
+      .then(response => response.json())
+      .then(data => {
+        if (data.files) {
+          data.files.forEach(file => {
+            const li = document.createElement("li");
+            li.textContent = file;
+            li.addEventListener("click", () => loadFile(file)); // <-- click event
+            fileList.appendChild(li);
+          });
+        } else if (data.error) {
+          fileList.innerHTML = "<li>Error: " + data.error + "</li>";
+        }
+      });
+
+    // Load file content when clicked
+    function loadFile(filename) {
+  fetch(`http://127.0.0.1:5000/${filename}`)
+    .then(response => {
+      if (!response.ok) {
+        // Backend returned an error (404, 500, etc.)
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      if (data.content) {
+        fileContent.innerHTML = `<h2>${data.filename}</h2><pre>${data.content}</pre>`;
+      } else {
+        fileContent.innerHTML = `<strong>Error:</strong> ${data.error}`;
+      }
+    })
+    .catch(error => {
+      console.error("Fetch error:", error);
+      fileContent.innerHTML = `<strong>Error fetching file:</strong> ${error}`;
+    });
+}
+
+  </script>
+</body>
+</html>

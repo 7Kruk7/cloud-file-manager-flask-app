@@ -1,0 +1,8 @@
+.env
+client_1_secret.json
+generate_secret.py
+hello.txt
+hello_OAuth2.txt
+test_with_OAuth2.py
+
+secrets/cloude-file-storage.json

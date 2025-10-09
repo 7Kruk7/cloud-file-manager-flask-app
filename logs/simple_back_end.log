@@ -1,0 +1,330 @@
+2025-09-25 15:23:01 - INFO - Uploaded hello.txt to storage-for-text-files.
+2025-09-25 16:11:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-25 16:11:51 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-25 16:11:51 - INFO -  * Restarting with stat
+2025-09-25 16:11:52 - WARNING -  * Debugger is active!
+2025-09-25 16:11:52 - INFO -  * Debugger PIN: 616-998-244
+2025-09-25 16:12:26 - INFO - 127.0.0.1 - - [25/Sep/2025 16:12:26] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-26 09:40:06 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 09:40:06 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 09:40:06 - INFO -  * Restarting with stat
+2025-09-26 09:40:06 - WARNING -  * Debugger is active!
+2025-09-26 09:40:06 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:40:38 - INFO - 127.0.0.1 - - [26/Sep/2025 09:40:38] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-26 09:45:28 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:45:28 - INFO -  * Restarting with stat
+2025-09-26 09:45:29 - WARNING -  * Debugger is active!
+2025-09-26 09:45:29 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:45:34 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:45:35 - INFO -  * Restarting with stat
+2025-09-26 09:45:35 - WARNING -  * Debugger is active!
+2025-09-26 09:45:35 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:45:42 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:45:42 - INFO -  * Restarting with stat
+2025-09-26 09:45:43 - WARNING -  * Debugger is active!
+2025-09-26 09:45:43 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:05 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:05 - INFO -  * Restarting with stat
+2025-09-26 09:46:05 - WARNING -  * Debugger is active!
+2025-09-26 09:46:05 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:16 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:16 - INFO -  * Restarting with stat
+2025-09-26 09:46:16 - WARNING -  * Debugger is active!
+2025-09-26 09:46:16 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:19 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:20 - INFO -  * Restarting with stat
+2025-09-26 09:46:20 - WARNING -  * Debugger is active!
+2025-09-26 09:46:20 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:21 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:21 - INFO -  * Restarting with stat
+2025-09-26 09:46:22 - WARNING -  * Debugger is active!
+2025-09-26 09:46:22 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:25 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:25 - INFO -  * Restarting with stat
+2025-09-26 09:46:26 - WARNING -  * Debugger is active!
+2025-09-26 09:46:26 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:28 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:28 - INFO -  * Restarting with stat
+2025-09-26 09:46:28 - WARNING -  * Debugger is active!
+2025-09-26 09:46:28 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:34 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:35 - INFO -  * Restarting with stat
+2025-09-26 09:46:35 - WARNING -  * Debugger is active!
+2025-09-26 09:46:35 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:37 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:37 - INFO -  * Restarting with stat
+2025-09-26 09:46:38 - WARNING -  * Debugger is active!
+2025-09-26 09:46:38 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:41 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:41 - INFO -  * Restarting with stat
+2025-09-26 09:46:42 - WARNING -  * Debugger is active!
+2025-09-26 09:46:42 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:46:48 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:46:48 - INFO -  * Restarting with stat
+2025-09-26 09:46:48 - WARNING -  * Debugger is active!
+2025-09-26 09:46:49 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 09:47:16 - INFO - 127.0.0.1 - - [26/Sep/2025 09:47:16] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-26 09:47:29 - INFO -  * Detected change in 'C:\\Users\\adamk\\Desktop\\treningowy_v4\\wierszyki\\backendapp\\simple_back_end.py', reloading
+2025-09-26 09:47:29 - INFO -  * Restarting with stat
+2025-09-26 09:47:29 - WARNING -  * Debugger is active!
+2025-09-26 09:47:29 - INFO -  * Debugger PIN: 616-998-244
+2025-09-26 15:13:35 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 15:13:35 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 15:13:35 - INFO -  * Restarting with stat
+2025-09-26 15:13:35 - WARNING -  * Debugger is active!
+2025-09-26 15:13:35 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 15:28:57 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 15:28:57 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 15:28:57 - INFO -  * Restarting with stat
+2025-09-26 15:28:58 - WARNING -  * Debugger is active!
+2025-09-26 15:28:58 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 15:29:16 - INFO - Files retrieved successfully.
+2025-09-26 15:29:16 - INFO - 127.0.0.1 - - [26/Sep/2025 15:29:16] "GET / HTTP/1.1" 200 -
+2025-09-26 15:46:40 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 15:46:40 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 15:46:40 - INFO -  * Restarting with stat
+2025-09-26 15:46:41 - WARNING -  * Debugger is active!
+2025-09-26 15:46:41 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 15:46:49 - INFO - Files retrieved successfully.
+2025-09-26 15:46:49 - INFO - 127.0.0.1 - - [26/Sep/2025 15:46:49] "GET / HTTP/1.1" 200 -
+2025-09-26 15:47:56 - INFO - Files retrieved successfully.
+2025-09-26 15:47:56 - INFO - 127.0.0.1 - - [26/Sep/2025 15:47:56] "GET / HTTP/1.1" 200 -
+2025-09-26 15:52:22 - INFO -  * Detected change in 'c:\\Users\\adamk\\Desktop\\treningowy_v4\\simple_app\\app.py', reloading
+2025-09-26 15:52:22 - INFO -  * Restarting with stat
+2025-09-26 15:52:23 - WARNING -  * Debugger is active!
+2025-09-26 15:52:23 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 15:52:28 - INFO -  * Detected change in 'c:\\Users\\adamk\\Desktop\\treningowy_v4\\simple_app\\app.py', reloading
+2025-09-26 15:52:29 - INFO -  * Restarting with stat
+2025-09-26 16:11:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 16:11:53 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 16:11:53 - INFO -  * Restarting with stat
+2025-09-26 16:11:54 - WARNING -  * Debugger is active!
+2025-09-26 16:11:54 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 16:12:08 - INFO - Files retrieved successfully.
+2025-09-26 16:12:08 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:08] "GET / HTTP/1.1" 200 -
+2025-09-26 16:12:10 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:10 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:10] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:10 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:10 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:10] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:11 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:11 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:11] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:12 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:12 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:12] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:12 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:12 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:12] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:12 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:12 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:12] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:13 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:13 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:13] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:14 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:14 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:14] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:14 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:14 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:14] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:16 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:16 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:16] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:17 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:17 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:17] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:17 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:17 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:17] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:18 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:18 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:18] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:19 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:19 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:19] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:21 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:21 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:21] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:22 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:22 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:22] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:22 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:22 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:22] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:12:23 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:12:23 - INFO - 127.0.0.1 - - [26/Sep/2025 16:12:23] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:25 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:25 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:25] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:26 - INFO - Files retrieved successfully.
+2025-09-26 16:15:26 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:26] "GET / HTTP/1.1" 200 -
+2025-09-26 16:15:28 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:28 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:28] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:28 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:28 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:28] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:28 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:28 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:28] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:30 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:30 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:30] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:30 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:30 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:30] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:31 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:31 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:31] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:32 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:32 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:32] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:15:32 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:15:32 - INFO - 127.0.0.1 - - [26/Sep/2025 16:15:32] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:19 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:19 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:19] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:20 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:20 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:20] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:22 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:22 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:22] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:23 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:23 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:23] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:25 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:25 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:25] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:16:26 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:16:26 - INFO - 127.0.0.1 - - [26/Sep/2025 16:16:26] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:06 - INFO - Files retrieved successfully.
+2025-09-26 16:19:06 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:06] "GET / HTTP/1.1" 200 -
+2025-09-26 16:19:08 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:08 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:08] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:08 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:08 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:08] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:09 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:09 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:09] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:09 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:09 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:09] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:09 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:09 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:09] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:10 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:10 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:10] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:10 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:10 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:10] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:10 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:10 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:10] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:14 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:14 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:14] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:14 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:14 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:14] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 16:19:14 - INFO - File hello.txt retrieved successfully.
+2025-09-26 16:19:14 - INFO - 127.0.0.1 - - [26/Sep/2025 16:19:14] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-26 17:58:38 - INFO - Uploaded hisoryjki.txt to storage-for-text-files.
+2025-09-26 17:58:38 - INFO - File C:\Users\adamk\Desktop\AdamKruszec\hisoryjki.txt uploaded successfully.
+2025-09-26 17:59:02 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-26 17:59:02 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-26 17:59:02 - INFO -  * Restarting with stat
+2025-09-26 17:59:03 - WARNING -  * Debugger is active!
+2025-09-26 17:59:03 - INFO -  * Debugger PIN: 130-052-378
+2025-09-26 17:59:19 - INFO - Files retrieved successfully.
+2025-09-26 17:59:19 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:19] "GET / HTTP/1.1" 200 -
+2025-09-26 17:59:22 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:22 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:22] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-26 17:59:22 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:22 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:22] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-26 17:59:24 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:24 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:24] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-26 17:59:24 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:24 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:24] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-26 17:59:27 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:27 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:27] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-26 17:59:27 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-26 17:59:27 - INFO - 127.0.0.1 - - [26/Sep/2025 17:59:27] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:44:21 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-27 14:44:21 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-27 14:44:21 - INFO -  * Restarting with stat
+2025-09-27 14:44:22 - WARNING -  * Debugger is active!
+2025-09-27 14:44:22 - INFO -  * Debugger PIN: 130-052-378
+2025-09-27 14:44:42 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:44:42 - INFO - 127.0.0.1 - - [27/Sep/2025 14:44:42] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:44:57 - INFO - Files retrieved successfully.
+2025-09-27 14:44:57 - INFO - 127.0.0.1 - - [27/Sep/2025 14:44:57] "GET / HTTP/1.1" 200 -
+2025-09-27 14:45:08 - WARNING - File "hisoryjki.txt" not found.
+2025-09-27 14:45:08 - INFO - 127.0.0.1 - - [27/Sep/2025 14:45:08] "[33mGET /"hisoryjki.txt" HTTP/1.1[0m" 404 -
+2025-09-27 14:45:13 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:45:13 - INFO - 127.0.0.1 - - [27/Sep/2025 14:45:13] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:45:53 - INFO - Files retrieved successfully.
+2025-09-27 14:45:53 - INFO - 127.0.0.1 - - [27/Sep/2025 14:45:53] "GET / HTTP/1.1" 200 -
+2025-09-27 14:45:59 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:45:59 - INFO - 127.0.0.1 - - [27/Sep/2025 14:45:59] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:46:01 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:46:01 - INFO - 127.0.0.1 - - [27/Sep/2025 14:46:01] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:46:01 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:46:01 - INFO - 127.0.0.1 - - [27/Sep/2025 14:46:01] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:46:02 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:46:02 - INFO - 127.0.0.1 - - [27/Sep/2025 14:46:02] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:46:03 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:46:03 - INFO - 127.0.0.1 - - [27/Sep/2025 14:46:03] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:46:03 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:46:03 - INFO - 127.0.0.1 - - [27/Sep/2025 14:46:03] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:47:50 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:47:50 - INFO - 127.0.0.1 - - [27/Sep/2025 14:47:50] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:52:34 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:52:34 - INFO - 127.0.0.1 - - [27/Sep/2025 14:52:34] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:53:46 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:53:46 - INFO - 127.0.0.1 - - [27/Sep/2025 14:53:46] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:53:46 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:53:46 - INFO - 127.0.0.1 - - [27/Sep/2025 14:53:46] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:53:48 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:53:48 - INFO - 127.0.0.1 - - [27/Sep/2025 14:53:48] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:53:49 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:53:49 - INFO - 127.0.0.1 - - [27/Sep/2025 14:53:49] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:54:41 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:54:41 - INFO - 127.0.0.1 - - [27/Sep/2025 14:54:41] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:54:41 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:54:41 - INFO - 127.0.0.1 - - [27/Sep/2025 14:54:41] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:54:41 - INFO - File hello.txt retrieved successfully.
+2025-09-27 14:54:41 - INFO - 127.0.0.1 - - [27/Sep/2025 14:54:41] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 14:54:42 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:54:42 - INFO - 127.0.0.1 - - [27/Sep/2025 14:54:42] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:54:42 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 14:54:42 - INFO - 127.0.0.1 - - [27/Sep/2025 14:54:42] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 14:55:02 - INFO - Files retrieved successfully.
+2025-09-27 14:55:02 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:02] "GET / HTTP/1.1" 200 -
+2025-09-27 14:55:08 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:08] "[33mGET /file/hello.txt HTTP/1.1[0m" 404 -
+2025-09-27 14:55:12 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:12] "[33mGET /file/hisoryjki.txt HTTP/1.1[0m" 404 -
+2025-09-27 14:55:13 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:13] "[33mGET /file/hisoryjki.txt HTTP/1.1[0m" 404 -
+2025-09-27 14:55:14 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:14] "[33mGET /file/hisoryjki.txt HTTP/1.1[0m" 404 -
+2025-09-27 14:55:15 - INFO - Files retrieved successfully.
+2025-09-27 14:55:15 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:15] "GET / HTTP/1.1" 200 -
+2025-09-27 14:55:16 - INFO - 127.0.0.1 - - [27/Sep/2025 14:55:16] "[33mGET /file/hisoryjki.txt HTTP/1.1[0m" 404 -
+2025-09-27 14:56:04 - INFO - Files retrieved successfully.
+2025-09-27 14:56:04 - INFO - 127.0.0.1 - - [27/Sep/2025 14:56:04] "GET / HTTP/1.1" 200 -
+2025-09-27 14:56:07 - INFO - 127.0.0.1 - - [27/Sep/2025 14:56:07] "[33mGET /file/hello.txt HTTP/1.1[0m" 404 -
+2025-09-27 15:00:03 - INFO - Files retrieved successfully.
+2025-09-27 15:00:03 - INFO - 127.0.0.1 - - [27/Sep/2025 15:00:03] "GET / HTTP/1.1" 200 -
+2025-09-27 15:00:05 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 15:00:05 - INFO - 127.0.0.1 - - [27/Sep/2025 15:00:05] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 15:00:11 - INFO - File hello.txt retrieved successfully.
+2025-09-27 15:00:11 - INFO - 127.0.0.1 - - [27/Sep/2025 15:00:11] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 15:00:13 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 15:00:13 - INFO - 127.0.0.1 - - [27/Sep/2025 15:00:13] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 15:00:57 - INFO - File hello.txt retrieved successfully.
+2025-09-27 15:00:57 - INFO - 127.0.0.1 - - [27/Sep/2025 15:00:57] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 15:01:00 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 15:01:00 - INFO - 127.0.0.1 - - [27/Sep/2025 15:01:00] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 15:03:19 - INFO - Files retrieved successfully.
+2025-09-27 15:03:19 - INFO - 127.0.0.1 - - [27/Sep/2025 15:03:19] "GET / HTTP/1.1" 200 -
+2025-09-27 15:03:43 - INFO - File hisoryjki.txt retrieved successfully.
+2025-09-27 15:03:43 - INFO - 127.0.0.1 - - [27/Sep/2025 15:03:43] "GET /hisoryjki.txt HTTP/1.1" 200 -
+2025-09-27 15:04:26 - INFO - Files retrieved successfully.
+2025-09-27 15:04:26 - INFO - 127.0.0.1 - - [27/Sep/2025 15:04:26] "GET / HTTP/1.1" 200 -
+2025-09-27 15:32:29 - INFO - Uploaded hello.txt to storage-for-text-files.
+2025-09-27 15:32:29 - INFO - File hello.txt uploaded successfully.
+2025-09-27 15:34:36 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-27 15:34:36 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-27 15:34:36 - INFO -  * Restarting with stat
+2025-09-27 15:34:37 - WARNING -  * Debugger is active!
+2025-09-27 15:34:37 - INFO -  * Debugger PIN: 130-052-378
+2025-09-27 15:34:49 - INFO - Files retrieved successfully.
+2025-09-27 15:34:49 - INFO - 127.0.0.1 - - [27/Sep/2025 15:34:49] "GET / HTTP/1.1" 200 -
+2025-09-27 15:34:49 - INFO - Files retrieved successfully.
+2025-09-27 15:34:49 - INFO - 127.0.0.1 - - [27/Sep/2025 15:34:49] "GET / HTTP/1.1" 200 -
+2025-09-27 15:34:51 - INFO - File hello.txt retrieved successfully.
+2025-09-27 15:34:51 - INFO - 127.0.0.1 - - [27/Sep/2025 15:34:51] "GET /hello.txt HTTP/1.1" 200 -
+2025-09-27 16:01:53 - INFO - Files retrieved successfully.
+2025-09-27 16:01:53 - INFO - 127.0.0.1 - - [27/Sep/2025 16:01:53] "GET / HTTP/1.1" 200 -
